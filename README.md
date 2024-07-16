@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @srshackers
-- 👀 I’m interested in autoamtion and large language models
+- 👋 Hi, I’m @srs
+- 👀 I’m interested in automation and large language models
 - 🌱 I’m currently learning LLM's in open source
 - 💞️ I’m looking to collaborate on LLM and NLP
-- 📫 How to reach me ...
+- 📫 How to reach me srshackers@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
